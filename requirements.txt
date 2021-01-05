@@ -1,6 +1,6 @@
 cupy
 matplotlib
-mxnet-cu90
+mxnet
 numba
 scipy
 h5py
